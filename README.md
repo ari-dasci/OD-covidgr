@@ -2,9 +2,9 @@
 
 Datasets of X-Ray imaging for detection of COVID-19.
 
-|Dataset|Class distribution|Download|
-|-|-|-|
-|[COVIDGR-1.0](#covidgr-10)|377 COVID, 377 normal|(available soon)|
+|Dataset|Class distribution|Download|Cite|
+|-|-|-|-|
+|[COVIDGR-1.0](#covidgr-10)|377 COVID, 377 normal|(available soon)|(available soon)|
 
 ## COVIDGR 1.0
 
