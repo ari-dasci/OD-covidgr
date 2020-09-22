@@ -1,6 +1,6 @@
 # COVIDGR datasets
 
-Datasets of X-Ray imaging for detection of COVID-19.
+Datasets of X-Ray imaging for detection of COVID-19. [More information about these datasets](https://dasci.es/transferencia/dascii-hub/open-data/covidgr-2/)
 
 |Dataset|Class distribution|Download|Cite|
 |-|-|-|-|
