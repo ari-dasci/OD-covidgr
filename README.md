@@ -4,11 +4,16 @@ Datasets of X-Ray imaging for detection of COVID-19. [More information about the
 
 |Dataset|Class distribution|Download|Cite|
 |-|-|-|-|
-|[COVIDGR-1.0](#covidgr-10)|377 COVID, 377 normal|[⤓ Download](https://github.com/ari-dasci/OD-covidgr/releases/tag/1.0)|[Citation](#cite-covidgr-10-as)|
+|[COVIDGR-1.0](#covidgr-10)|426 COVID, 426 normal|[⤓ Download](https://github.com/ari-dasci/OD-covidgr/releases/tag/1.0)|[Citation](#cite-covidgr-10-as)|
 
 ## COVIDGR 1.0
 
-Under a close collaboration with an expert radiologist team of the Hospital Universitario San Cecilio, the COVIDGR-1.0 dataset of patients' anonymized X-ray images has been built. 754 images have been collected following a strict labeling protocol. They are categorized into 377 positive cases and 377 negative cases. Positive images correspond to patients who have been tested positive for COVID-19 using RT-PCR within a time span of at most 24h between the X-ray image and the test. Every image has been taken using the same type of equipment and with the same format: only the posterior-anterior view is considered.
+Under a close collaboration with an expert radiologist team of the Hospital Universitario San Cecilio, the COVIDGR-1.0 dataset of patients' anonymized X-ray images has been built. 852 images have been collected following a strict labeling protocol. They are categorized into 426 positive cases and 426 negative cases. Positive images correspond to patients who have been tested positive for COVID-19 using RT-PCR within a time span of at most 24h between the X-ray image and the test. Every image has been taken using the same type of equipment and with the same format: only the posterior-anterior view is considered. More information about image distribution:
+
+|Class|#images|women|men|severities|
+|-|-|-|-|-|
+|negative|426|239|187||
+|positive|426|190|236|Normal-PCR+: 76, Mild: 100, Moderate: 171, Severe: 79|
 
 ### Cite COVIDGR 1.0 as
 
